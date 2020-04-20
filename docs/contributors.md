@@ -36,3 +36,8 @@ Please add yourself to this list with a short description of what you are workin
 - Michael Boyle
 
    I am working with with Olga Buchel and others on identifying / cataloging data sources and developing data ETL in support of analytics & visualizations.
+
+- Keaton Armentrout
+
+   Data collection and webscraping supporting Olga Buchel
+
